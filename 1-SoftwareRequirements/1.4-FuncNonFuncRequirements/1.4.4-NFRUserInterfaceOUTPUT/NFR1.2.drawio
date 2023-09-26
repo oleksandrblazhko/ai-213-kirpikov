@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-09-26T20:01:16.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lNZMJRVEboZ8w5-8RgTC" version="21.8.2" type="device">
+  <diagram name="Страница — 1" id="z-eLzPuMozAPU7ToVV5o">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ffPJfeWBExSGsFBKZ4g--6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ffPJfeWBExSGsFBKZ4g--7" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Сповіщення про погіршення стану води навколо:&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="225" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ffPJfeWBExSGsFBKZ4g--8" value="ON" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.onOffButton;gradientColor=none;strokeColor=#999999;buttonState=on;fillColor2=#008cff;fontColor=#ffffff;fontSize=17;mainText=;spacingRight=40;fontStyle=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="228" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
