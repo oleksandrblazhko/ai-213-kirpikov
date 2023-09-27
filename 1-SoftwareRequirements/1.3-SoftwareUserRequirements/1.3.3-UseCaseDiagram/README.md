@@ -1,3 +1,4 @@
 ### Діаграма прецедентів програмного продукту
 
-![UseCase](https://github.com/oleksandrblazhko/ai-213-kirpikov/assets/100131883/63db2e38-18e6-41d5-a9dd-2b409f68affc)
+
+![UseCase (1)](https://github.com/oleksandrblazhko/ai-213-kirpikov/assets/100131883/14c6ad2a-3eb5-4f4d-ad8e-31f99a93da4c)
