@@ -1,0 +1,15 @@
+@startuml
+title Example of Activity Diagram 
+
+start
+
+:The program analyzes water level; 
+
+if (Is water level received?) then (yes)
+  :Send information about water level;
+stop
+else (no)
+  :Error connection;
+
+stop
+@enduml
