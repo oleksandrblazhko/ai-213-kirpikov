@@ -1,0 +1,29 @@
+@startuml
+hide circle
+title Example of Classes Diagram 
+
+Class SafeWater{
+    measired_air
+    air_analysis
+    providing_reccommendations
+}
+
+Class Answer_on_request{
+    measured_water_level
+    answer_timee
+    answer_status
+}
+
+Class Request_water_level{
+    location
+    request_time
+    reauest_status
+}
+
+
+SafeWater"1" --> "+"Answer_on_request: ProcessesAnswer
+
+Answer_on_request"+" --> "1"Request_water_level: AnswersRequest
+
+SafeWater"1" --> "+"Request_water_level: AssistUser
+@enduml
