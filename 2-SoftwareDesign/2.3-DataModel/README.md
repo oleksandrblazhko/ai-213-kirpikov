@@ -1,3 +1,4 @@
 ### Схема моделі даних
 
-![DataModelLab](https://github.com/oleksandrblazhko/ai-213-kirpikov/assets/100131883/c7c527c5-c70b-4f67-a5a8-f3e6a880e8e3)
+
+![DataModelLab](https://github.com/oleksandrblazhko/ai-213-kirpikov/assets/100131883/3245c6a9-5e44-4c94-be9d-78d86cd6447e)
